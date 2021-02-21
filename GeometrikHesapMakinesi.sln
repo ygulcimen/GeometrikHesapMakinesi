@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometrikHesapMakinesi", "GeometrikHesapMakinesi\GeometrikHesapMakinesi.csproj", "{B8A2A530-C171-4CB6-A44F-EEE893D74F90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8A2A530-C171-4CB6-A44F-EEE893D74F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A2A530-C171-4CB6-A44F-EEE893D74F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A2A530-C171-4CB6-A44F-EEE893D74F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A2A530-C171-4CB6-A44F-EEE893D74F90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {331E1C54-C98F-4EC2-861F-3CA68CE299C3}
+	EndGlobalSection
+EndGlobal
